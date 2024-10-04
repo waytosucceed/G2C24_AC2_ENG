@@ -1,0 +1,217 @@
+[
+    {
+        "questionNo": "Q1.",
+        "question": "I can tie my shoes by ________.",
+        "options": [
+            "myself",
+            "himself",
+            "themselves"
+        ],
+        "correct": 0,
+        "explanation": "'Myself' is the reflexive pronoun used when 'I' do something to me."
+    },
+    {
+        "questionNo": "Q2.",
+        "question": "\"Myself\" is a reflexive pronoun.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 0,
+        "explanation": "'Myself' is indeed a reflexive pronoun."
+    },
+    {
+        "questionNo": "Q3.",
+        "question": "She looked at ________ in the mirror.",
+        "options": [
+            "himself",
+            "herself",
+            "itself"
+        ],
+        "correct": 1,
+        "explanation": "'Herself' is the reflexive pronoun used when 'she' does something to her."
+    },
+    {
+        "questionNo": "Q4.",
+        "question": "\"Ourselves\" is used for one person.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 1,
+        "explanation": "'Ourselves' is used when talking about more than one person."
+    },
+    {
+        "questionNo": "Q5.",
+        "question": "They enjoyed ________ at the party.",
+        "options": [
+            "yourself",
+            "themselves",
+            "myself"
+        ],
+        "correct": 1,
+        "explanation": "'Themselves' is the reflexive pronoun used when 'they' do something to them."
+    },
+    {
+        "questionNo": "Q6.",
+        "question": "Complete the sentence with a pronoun that refers back to the subject in bold.\nA goat may use its horns to scratch _______.",
+        "options": [
+            "itself",
+            "himselves",
+            "themself"
+        ],
+        "correct": 0,
+        "explanation": "The subject, a goat, can be called 'it'. Use the matching reflexive pronoun, 'itself'. Reflexive pronouns are pronouns that end in -self or -selves."
+    },
+    {
+        "questionNo": "Q7.",
+        "question": "\"Himself\" can be used when talking about a girl.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 1,
+        "explanation": "'Himself' is used for boys, while 'herself' is used for girls."
+    },
+    {
+        "questionNo": "Q8.",
+        "question": "We made cookies all by ________.",
+        "options": [
+            "ourselves",
+            "themselves",
+            "herself"
+        ],
+        "correct": 0,
+        "explanation": "'Ourselves' is the reflexive pronoun used when 'we' do something to us."
+    },
+    {
+        "questionNo": "Q9.",
+        "question": "The cat cleaned ________ with its tongue.",
+        "options": [
+            "himself",
+            "herself",
+            "itself"
+        ],
+        "correct": 2,
+        "explanation": "'Itself' is the reflexive pronoun used when 'it' does something to it."
+    },
+    {
+        "questionNo": "Q10.",
+        "question": "\"Itself\" can be used for animals and things.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 0,
+        "explanation": "'Itself' is used when talking about animals or objects."
+    },
+    {
+        "questionNo": "Q11.",
+        "question": "You should be proud of ________.",
+        "options": [
+            "myself",
+            "yourself",
+            "himself"
+        ],
+        "correct": 1,
+        "explanation": "'Yourself' is the reflexive pronoun used when 'you' do something to you."
+    },
+    {
+        "questionNo": "Q12.",
+        "question": "Complete the sentence with a pronoun that refers back to the subject in bold.\nThe children dirtied _______ by playing in the muddy grass.",
+        "options": [
+            "themselves",
+            "itself",
+            "himself"
+        ],
+        "correct": 0,
+        "explanation": "The subject, the children, can be called 'they'. Use the matching reflexive pronoun, 'themselves'."
+    },
+    {
+        "questionNo": "Q13.",
+        "question": "The dog hurt ________ while playing.",
+        "options": [
+            "yourself",
+            "itself",
+            "himself"
+        ],
+        "correct": 1,
+        "explanation": "'Itself' is the reflexive pronoun used when 'it' does something to it."
+    },
+    {
+        "questionNo": "Q14.",
+        "question": "She can do it all by ________.",
+        "options": [
+            "herself",
+            "himself",
+            "yourself"
+        ],
+        "correct": 0,
+        "explanation": "'Herself' is the reflexive pronoun used when 'she' does something to her."
+    },
+    
+        {
+            "questionNo": "Q15.",
+            "question": "He did all the homework by ________. ",
+            "options": [
+                "himself",
+                "ourself"
+            ],
+            "correct": 0,
+            "explanation": "'Himself' is the reflexive pronoun used when 'he' does something to him."
+        },
+        {
+            "questionNo": "Q16.",
+            "question": "We enjoyed ________ at the zoo. ",
+            "options": [
+                "ourself",
+                "ourselves"
+            ],
+            "correct": 1,
+            "explanation": "'Ourselves' is the reflexive pronoun used when 'we' do something to us."
+        },
+        {
+            "questionNo": "Q17.",
+            "question": "She painted the picture all by ________. ",
+            "options": [
+                "himself",
+                "herself"
+            ],
+            "correct": 1,
+            "explanation": "'Herself' is the reflexive pronoun used when 'she' does something to her."
+        },
+        {
+            "questionNo": "Q18.",
+            "question": "The dog found ________ a new toy. ",
+            "options": [
+                "themselves",
+                "itself"
+            ],
+            "correct": 1,
+            "explanation": "'Itself' is the reflexive pronoun used when 'it' does something to it."
+        }
+    ,
+    
+    {
+        "questionNo": "Q19.",
+        "question": "The children can dress ________.",
+        "options": [
+            "herself",
+            "ourselves",
+            "themselves"
+        ],
+        "correct": 2,
+        "explanation": "'Themselves' is the reflexive pronoun used when 'the children' do something to them."
+    },
+    {
+        "questionNo": "Q20.",
+        "question": "The robot fixed ________.",
+        "options": [
+            "itself",
+            "herself",
+            "myself"
+        ],
+        "correct": 0,
+        "explanation": "'Itself' is the reflexive pronoun used when 'it' (the robot) does something to it."
+    }
+]
